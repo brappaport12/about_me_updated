@@ -1,0 +1,54 @@
+body {
+  background-color: #4C5D92;
+}
+h1 {
+  margin: 0 auto;
+  text-align: center;
+ font-family: Merriweather, GENERIC_NAME;
+ color: #95B0BA;
+}
+h2 {
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Merriweather, GENERIC_NAME;
+  font-weight: bold; 
+  color: #5B7B9D;
+}
+p {
+  font-family: Oswald, GENERIC_NAME;
+  font-weight: lighter;
+  padding: 10px;
+  color: #F1F1F0;
+}
+img {
+  margin: 0 auto;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol {
+  font-family: Oswald, GENERIC_NAME;
+  color: #F1F1F0;
+}
+.box {
+  width:800px;
+  margin:0 auto;
+  padding:10px;
+  background-color:#95B0BA;
+}
+a:link {
+  color: #4C5D92;
+  background-color: transparent;
+}
+
+a:visited {
+  color: #5B7B9D;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #20252B;
+  background-color: transparent;
+  text-decoration: underline;
+}
